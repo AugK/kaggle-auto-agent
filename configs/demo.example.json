@@ -1,0 +1,10 @@
+{
+  "name": "demo",
+  "train_path": "data/train.csv",
+  "test_path": "data/test.csv",
+  "id_col": "id",
+  "target_col": "target",
+  "pos_label": 1,
+  "num_cols": ["feature_1", "feature_2"],
+  "cat_cols": ["feature_3"]
+}
